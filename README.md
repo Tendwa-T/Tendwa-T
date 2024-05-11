@@ -1,4 +1,4 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tendwa-t)](https://githubtrends.io)
 
 <!---
 Tendz09/Tendz09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
