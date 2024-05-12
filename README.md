@@ -6,7 +6,6 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&group=other&compact=True&theme=bright_lights)](https://githubtrends.io)
 
-
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/repos?time_range=one_year&include_private=True&theme=bright_lights)](https://githubtrends.io)
 
 <!---
