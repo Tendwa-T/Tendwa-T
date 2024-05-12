@@ -4,7 +4,9 @@
 - 💞️ I’m looking to learn on hands on projects and modules for developing projects ...
 - 📫 How to reach me, my email tirus301@outlook.com ...
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/repos?time_range=one_year&include_private=True&theme=bright_lights)](https://githubtrends.io)      [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&group=other&compact=True&theme=bright_lights)](https://githubtrends.io)  
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/repos?time_range=one_year&include_private=True&theme=bright_lights)](https://githubtrends.io)    [![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&group=other&compact=True&theme=bright_lights](https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&theme=bright_lights))](https://githubtrends.io) 
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&group=other&compact=True&theme=bright_lights)](https://githubtrends.io)  
 
 
 
