@@ -1,14 +1,27 @@
-- 👋 Hi, I’m @Tendz09
-- 👀 I’m interested in c++, java, Kotlin, abit of HTML and CSS, LITERALLY putting my hands on everything...
-- 🌱 I’m currently learning node js for backend development ...
-- 💞️ I’m looking to learn on hands on projects and modules for developing projects ...
-- 📫 How to reach me, my email tirus301@outlook.com ...
+# 👋 Hi, I’m Tirus Tendwa
+I have a keen interest in Web and Mobile Development
+- 🌍 I am located in Nairobi, Kenya
+- 🤝 I’m open to learning and collaboration on various projects
+- 📫 How to reach me, my email tirus301@outlook.com
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/repos?time_range=one_year&include_private=True&theme=bright_lights)](https://githubtrends.io)   [![GitHub Trends SVG])https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)  
+  <br/>
+## Technologies
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+
+<br/>
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&group=other&compact=True&theme=bright_lights)](https://githubtrends.io)  
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/repos?time_range=one_year&include_private=True&theme=bright_lights)](https://githubtrends.io) 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)  
 
 
 <!---
