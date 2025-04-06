@@ -23,8 +23,9 @@ I have a keen interest in Web and Mobile Development
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/repos?time_range=six_months&group=other&theme=bright_lights)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tendwa-T/langs?time_range=one_year&include_private=True&compact=True&theme=bright_lights)](https://githubtrends.io)  
 --->
+![Tendwa-T's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tendwa-T&theme=solarized-dark&hide_border=false)
 
-![Tendwa-T's Stats](https://github-readme-stats.vercel.app/api?username=Tendwa-T&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true) ![Tendwa-T's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tendwa-T&theme=solarized-dark&hide_border=false)
+![Tendwa-T's Stats](https://github-readme-stats.vercel.app/api?username=Tendwa-T&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true) 
 <br/>
 
    ![Tendwa-T's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tendwa-T&theme=solarized-dark&show_icons=true&hide_border=false&layout=compact)
