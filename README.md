@@ -2,7 +2,7 @@
 I have a keen interest in Web and Mobile Development
 - 🌍 I am located in Nairobi, Kenya
 - 🤝 I’m open to learning and collaboration on various projects
-- 📫 How to reach me, my email tirus301@outlook.com
+- 📫 How to reach me, my email tiruskhamasi@gmail.com
 
   <br/>
 ## Technologies
