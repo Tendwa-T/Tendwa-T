@@ -29,7 +29,7 @@ I have a keen interest in Web and Mobile Development
 <br/>
 --->
 
-   ![Tendwa-T's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tendwa-T&theme=solarized-dark&show_icons=true&hide_border=false&layout=compact)
+   ![tendwa-t's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tendwa-t&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 <!---
